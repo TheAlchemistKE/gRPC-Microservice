@@ -9,6 +9,7 @@ flask-restplus = "*"
 protobuf = "*"
 psycopg2-binary = "*"
 grpcio-tools = "*"
+pytest = "*"
 
 [dev-packages]
 
